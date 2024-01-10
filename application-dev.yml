@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Confif-dev
 eureka:
   instance:
     prefer-ip-address: true
