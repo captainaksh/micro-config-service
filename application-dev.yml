@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Confif-Default
+    name: Confif-dev
 eureka:
   instance:
     prefer-ip-address: true
